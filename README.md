@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🌕 About Me
+Hi, I'm an JavaScript and PHP engineer. 🤝
 
-<!--
-**Tshi66/Tshi66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=ts,js,html,css,pug,nodejs,vue,sass,webpack,php,laravel,swift,postgres,aws,git,github,docker,vscode,xd" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📈 Status
+<a href="https://qiita.com/Tsh-43879562"><img src="https://badgen.org/img/qiita/Tsh-43879562/contributions?style=for-the-badge" alt="Contributions" /></a>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tshi66&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Tshi66/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tshi66&theme=tokyonight)](https://github.com/Tshi66/github-profile-trophy)
